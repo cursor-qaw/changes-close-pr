@@ -1,4 +1,4 @@
-const vicePresidents = [
+const veeps = [
   "John Adams",
   "Thomas Jefferson",
   "Aaron Burr",
@@ -50,5 +50,3 @@ const vicePresidents = [
   "Kamala Harris",
   "JD Vance",
 ];
-
-module.exports = { vicePresidents };
