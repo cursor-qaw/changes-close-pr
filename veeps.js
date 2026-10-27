@@ -22,7 +22,7 @@ const veeps = [
   "Thomas A. Hendricks",
   "Levi P. Morton",
   "Adlai E. Stevenson",
-  "Garret A. Hobart",
+  "Garret Hobart",
   "Theodore Roosevelt",
   "Charles W. Fairbanks",
   "James S. Sherman",
